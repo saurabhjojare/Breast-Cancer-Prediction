@@ -99,7 +99,7 @@ In recent years, perhaps coinciding with the decline in prescriptive hormone rep
 [National Breast Cancer Foundation, Inc](https://www.nationalbreastcancer.org/what-is-cancer/)
 
 # Breast Cancer Prediction
-* Predict the cancer if it is **benign** or **malignant**
+* Predict the cancer if it is benign or malignant
 * Using the Breast Cancer Database, we will create a classifier that can help diagnose patients and predict the likelihood of a breast cancer.
 * Used various Machine Learning Algorithms to analyse and predict.
 * Used 30 different columns to understand the data.
