@@ -105,7 +105,7 @@ In recent years, perhaps coinciding with the decline in prescriptive hormone rep
 * Used 30 different columns to understand the data.
 
 ## Project Certificate 
-[Project in AI & ML - Breast Cancer Detection](https://saurabhjojare.me/static/docs/project_in_ai_&_ml_breast_cancer_detection_letsupgrade.pdf)
+[Project in AI & ML - Breast Cancer Detection](https://github.com/saurabhjojare/Breast-Cancer-Prediction/blob/main/static/docs/project_in_ai_%26_ml_breast_cancer_detection_letsupgrade.pdf)
 
 ## Tools Used
 Jupyter Notebook
